@@ -1,0 +1,8 @@
+using the diff command in windows helped me to find the bug without reviewing the entire code.
+
+using version control can help me to find bugs faster, and reflect on what kind of mistakes I make and why.
+
+Manually saving with comments, makes the save log have an intuitive flow for you, and hinders irrational savepoints
+
+multi file version control, usually only makes sense for programming purposes, where files are connected. 
+
