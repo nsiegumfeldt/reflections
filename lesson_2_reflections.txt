@@ -1,0 +1,6 @@
+git init initializes a git repository with no commits.
+This enables version control of that folder
+
+the staging area is different from the working directory is that it is the blueprint for what is to be committed.
+This gives the user more control of what he commits, before he commits it.
+
