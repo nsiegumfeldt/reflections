@@ -1,3 +1,12 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 GitHub is essentially a cloud service, that allows you to backup your work and share it with other people.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+When you collaborate with others on a repository, you may not want to have all your commits pushed automatically.
+
+cloning and forking are basicly the same thing. When using forking on GitHub, GitHub saves the reference to the original repository, 
+and the statistics associated with it.
+Branching can be used on your own repository, and also keep changes from affecting the master

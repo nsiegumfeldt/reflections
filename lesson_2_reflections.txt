@@ -1,6 +1,18 @@
 git init initializes a git repository with no commits.
-This enables version control of that folder
+This enables version control of that folder.
 
-the staging area is different from the working directory is that it is the blueprint for what is to be committed.
+the difference between the staging area and the working directory is that it is the
+blueprint for what is to be committed.
 This gives the user more control of what he commits, before he commits it.
 
+You can use the staging area to make sure you have only one commit per logical change,
+by only committing the files that are impacted by the changed described in the commit
+message.
+
+is git branch to make new track of changes that you can later merge with your master
+branch.
+
+Using git merge to merge branches automatically adds new lines, deletes lines that 
+aren't in conflict and highlights areas with conflicts.
+Automatically adding new and removing lines can be fast, but runs the risk of 
+delivering buggy code.
